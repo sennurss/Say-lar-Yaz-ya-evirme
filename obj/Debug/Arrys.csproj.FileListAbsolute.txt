@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\CSharp\Odevler\Arrys\Arrys\bin\Debug\Arrys.exe.config
+C:\Users\asus\Desktop\CSharp\Odevler\Arrys\Arrys\bin\Debug\Arrys.exe
+C:\Users\asus\Desktop\CSharp\Odevler\Arrys\Arrys\bin\Debug\Arrys.pdb
+C:\Users\asus\Desktop\CSharp\Odevler\Arrys\Arrys\obj\Debug\Arrys.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\CSharp\Odevler\Arrys\Arrys\obj\Debug\Arrys.Form1.resources
+C:\Users\asus\Desktop\CSharp\Odevler\Arrys\Arrys\obj\Debug\Arrys.Properties.Resources.resources
+C:\Users\asus\Desktop\CSharp\Odevler\Arrys\Arrys\obj\Debug\Arrys.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\CSharp\Odevler\Arrys\Arrys\obj\Debug\Arrys.exe
+C:\Users\asus\Desktop\CSharp\Odevler\Arrys\Arrys\obj\Debug\Arrys.pdb
